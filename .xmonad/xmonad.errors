@@ -1,0 +1,8 @@
+$ ghc --make xmonad.hs -i -ilib -fforce-recomp -main-is main -dynamic -v0 -outputdir /home/Frog/.xmonad/build-x86_64-linux -o /home/Frog/.xmonad/xmonad-x86_64-linux
+
+xmonad.hs:87:43: warning: [-Wtabs]
+    Tab character found here, and in 18 further locations.
+    Please use spaces instead.
+   |
+87 |         , ("M-c", spawn "rofi -show calc")      -- Open calculator
+   |                                           ^^^^^^
