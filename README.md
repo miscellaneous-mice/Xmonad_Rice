@@ -22,4 +22,3 @@ $ cp -r ~/.config/polybar/fonts/* ~/.fonts/
 $ chmod +x ~/.config/polybar/scripts/launcher
 $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 ```
-*If you like BSPWM [here you go](https://github.com/miscellaneous-mice/BSPWM_Rice)*
