@@ -10,7 +10,7 @@
 $ mv ~/.xmonad/xmonad.hs ~/Backup
 $ cp ~/Xmonad_Rice/.xmonad/xmonad.hs ~/.xmonad/
 ```
-- Next install and replace the polybar config files.
+- Next install and replace the polybar config files. Installation of fonts is given.
 ```
 $ sudo pacman -S polybar
 $ cp -r ~/Xmonad/.config/polybar ~/.config/
