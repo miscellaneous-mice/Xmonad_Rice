@@ -29,7 +29,7 @@ font:
 
 
 import:
- - ~/.config/alacritty/iterm.yaml
+ - ~/.config/alacritty/rose-pine.yaml
 
 # cursor:
 #   style: Underline
