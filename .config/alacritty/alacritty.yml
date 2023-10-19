@@ -1,0 +1,52 @@
+#Alacritty:
+
+env:
+  TERM: alacritty
+
+window:
+  opacity: 1.0
+  padding:
+    x: 25
+    y: 25
+
+    dynamic_padding:  true
+    decoration: none
+
+font:
+  normal:
+    family: Source Code Pro for Powerline
+
+  bold:
+    family: Source Code Pro for Powerline
+
+  italic:
+    family: Source Code Pro for Powerline
+
+  bold_italic:
+    family: Source Code Pro for Powerline
+
+  size: 11
+
+
+import:
+ - ~/.config/alacritty/iterm.yaml
+
+# cursor:
+#   style: Underline
+
+#   unfocused_hollow: false
+
+live_config_reload: true
+                 
+key_bindings:
+
+  - { key: Key0, mods: Control, action: ResetFontSize }
+
+  - { key: Equals, mods: Control, action: IncreaseFontSize }
+
+  - { key: Minus, mods: Control, action: DecreaseFontSize }
+
+  - { key: V, mods: Control, action: Paste }
+
+  - { key: C, mods: Control, action: Copy }    
+
