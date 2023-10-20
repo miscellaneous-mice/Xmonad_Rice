@@ -22,3 +22,14 @@ $ cp -r ~/.config/polybar/fonts/* ~/.fonts/
 $ chmod +x ~/.config/polybar/scripts/launcher
 $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 ```
+
+## Catppuccin
+- [Polybar]()
+- [Alacritty](https://github.com/catppuccin/alacritty)
+- [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/catppuccin/)
+- [Rofi](https://github.com/catppuccin/rofi/tree/main)
+- [Wallpaper](https://github.com/Gingeh/wallpapers/tree/main)
+- [Theme](https://github.com/catppuccin/gtk)
+- [Icon](https://github.com/catppuccin/papirus-folders)
+- [Others](https://github.com/catppuccin/catppuccin)
+
