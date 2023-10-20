@@ -24,7 +24,7 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 ```
 
 ## Catppuccin
-- [Polybar]()
+- [Polybar](https://github.com/miscellaneous-mice/polybar)
 - [Alacritty](https://github.com/catppuccin/alacritty)
 - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/catppuccin/)
 - [Rofi](https://github.com/catppuccin/rofi/tree/main)
