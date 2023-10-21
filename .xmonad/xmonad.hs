@@ -282,7 +282,8 @@ myStartupHook = do
   spawnOnce "picom --config ~/.config/picom/picom.conf"
   --spawnOnce "picom --experimental-backends"
   --spawnOnce "picom --vsync -b"
-  spawnOnce "sh ~/.config/polybar/launch.sh &"
+  spawnOnce "sh ~/.config/polybar/launch.sh"
+  spawnOnce "xsetroot -cursor_name left_ptr"
 
 
 -- Now run xmonad with all the defaults we set up.
