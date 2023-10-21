@@ -30,6 +30,8 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 - [Rofi](https://github.com/catppuccin/rofi/tree/main)
 - [Wallpaper](https://github.com/Gingeh/wallpapers/tree/main)
 - [Theme](https://github.com/catppuccin/gtk)
-- [Icon](https://github.com/catppuccin/papirus-folders)
+- Icons
+  - [papirus](https://github.com/catppuccin/papirus-folders)
+  - [oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
 - [Others](https://github.com/catppuccin/catppuccin)
 
