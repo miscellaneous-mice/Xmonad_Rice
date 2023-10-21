@@ -35,3 +35,14 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
   - [oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
 - [Others](https://github.com/catppuccin/catppuccin)
 
+## Nord
+- [Polybar](https://github.com/miscellaneous-mice/polybar)
+- [Alacritty](https://github.com/miscellaneous-mice/Terminal_Rice#configuring-alacritty-themes)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arctic-nord-theme/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+- [Rofi](https://github.com/catppuccin/rofi/tree/main)
+- [Wallpaper](https://github.com/theglitchh/Nord-Wallpapers)
+- [Theme](https://www.xfce-look.org/p/1267246/)
+- Icons
+  - [Zafiro Nord Dark Blue](https://www.xfce-look.org/p/1937741)
+  - [oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
+- [Others](https://www.nordtheme.com/docs/colors-and-palettes)
