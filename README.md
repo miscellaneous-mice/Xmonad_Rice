@@ -31,7 +31,7 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 - [Wallpaper](https://github.com/Gingeh/wallpapers/tree/main)
 - [Theme](https://github.com/catppuccin/gtk)
 - Icons
-  - [papirus](https://github.com/catppuccin/papirus-folders)
+  - [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#third-party-packages)
   - [oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
 - [Others](https://github.com/catppuccin/catppuccin)
 
