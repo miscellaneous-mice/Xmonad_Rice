@@ -1,0 +1,46 @@
+#Alacritty:
+
+env:
+  TERM: alacritty
+
+window:
+  opacity: 1.0
+  padding:
+    x: 25
+    y: 25
+
+    dynamic_padding:  true
+    decoration: none
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+
+  bold:
+    family: JetBrainsMono Nerd Font
+
+  italic:
+    family: JetBrainsMono Nerd Font
+
+  bold_italic:
+    family: JetBrainsMono Nerd Font
+
+  size: 12
+
+
+import:
+  - ~/.config/alacritty/catppuccin-mocha.yml
+# cursor:
+#   style: Underline
+
+#   unfocused_hollow: false
+
+live_config_reload: true
+                 
+key_bindings:
+
+  - { key: Key0, mods: Control, action: ResetFontSize }
+
+  - { key: Equals, mods: Control, action: IncreaseFontSize }
+
+  - { key: Minus, mods: Control, action: DecreaseFontSize }
