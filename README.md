@@ -4,7 +4,7 @@
 
 **All the necessary stuff found [here](https://github.com/miscellaneous-mice/Linux_Rice)**
 
-![2](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/b3002d4d-e907-453c-a7f1-893a5462178e)
+![Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/9ff33d41-0a85-4fe2-b935-44cfa3936ef8)
 
 ## Configurations
 - Window manager configs
