@@ -114,8 +114,7 @@ alias unimatrix="~/.local/bin/unimatrix -c blue -u 'Linux'"
 #source ~/custom_commands/.my_custom_commands.sh
 alias tty_clock="tty-clock -c -C 7 -b"
 
-
-colorscript -e pinguco
+colorscript -e zwaves
 
 if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
   exec startx
