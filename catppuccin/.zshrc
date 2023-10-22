@@ -110,8 +110,7 @@ autoload -U compinit && compinit
 alias vim=nvim
 alias unimatrix="~/.local/bin/unimatrix -c blue -u 'Linux'"
 
-
-source ~/custom_commands/.my_custom_commands.sh
+alias tty_clock="tty-clock -c -C 7 -b"
 
 colorscript -e alpha
 
