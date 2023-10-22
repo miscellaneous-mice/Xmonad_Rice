@@ -1,7 +1,7 @@
 configuration {
     font:                           "JetBrainsMono Nerd Font 10";
     show-icons:                     true;
-	icon-theme: 					"papirus";
+	icon-theme: 					"Papirus";
     display-drun: 					"";
     drun-display-format:            " {name}";
     threads:                        0;
