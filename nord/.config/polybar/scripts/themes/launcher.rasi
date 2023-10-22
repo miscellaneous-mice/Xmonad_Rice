@@ -1,7 +1,7 @@
 configuration {
     font:                           "JetBrainsMono Nerd Font 10";
     show-icons:                     true;
-	icon-theme: 					"Zaforp-Nord-Black-Blue";
+	icon-theme: 					"Zafiro-Nord-Black-Blue";
     display-drun: 					"";
     drun-display-format:            " {name}";
     threads:                        0;
