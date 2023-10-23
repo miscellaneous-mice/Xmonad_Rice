@@ -79,7 +79,7 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 - [Theme](https://www.xfce-look.org/p/1267246/)
 - [Icons](https://www.xfce-look.org/p/1937741)
 - [Font](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/)  
-- [Others](https://www.nordtheme.com/docs/colors-and-palettes)
+- [Others](https://www.nordtheme.com/ports)
 
 Credit
 - https://github.com/VaughnValle/blue-sky
