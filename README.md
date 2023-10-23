@@ -74,7 +74,7 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 - [Polybar](https://github.com/miscellaneous-mice/polybar)
 - [Alacritty](https://github.com/miscellaneous-mice/Terminal_Rice#configuring-alacritty-themes)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arctic-nord-theme/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
-- [Rofi](https://github.com/catppuccin/rofi/tree/main)
+- [Rofi](https://github.com/undiabler/nord-rofi-theme)
 - [Wallpaper](https://github.com/theglitchh/Nord-Wallpapers)
 - [Theme](https://www.xfce-look.org/p/1267246/)
 - [Icons](https://www.xfce-look.org/p/1937741)
