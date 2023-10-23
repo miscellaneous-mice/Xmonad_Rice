@@ -30,6 +30,7 @@ $ cp -r ~/Xmonad_Rice/{theme}/.config/polybar ~/.config/
 $ cp -r ~/.config/polybar/fonts/* ~/.fonts/
 $ chmod +x ~/.config/polybar/scripts/launcher
 $ chmod +x ~/.config/polybar/scripts/powermenu_alt
+$ chmod +x ~/.config/polybar/launch.sh
 ```
 - [Terminal configurations(zshrc, neovim, alacritty)](https://github.com/miscellaneous-mice/Terminal_Rice)
 
