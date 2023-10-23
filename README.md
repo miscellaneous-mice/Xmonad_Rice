@@ -81,5 +81,5 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 - [Font](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/)  
 - [Others](https://www.nordtheme.com/docs/colors-and-palettes)
 
-- Credit
-  - https://github.com/VaughnValle/blue-sky
+Credit
+- https://github.com/VaughnValle/blue-sky
