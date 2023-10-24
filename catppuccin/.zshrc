@@ -114,6 +114,6 @@ alias tty_clock="tty-clock -c -C 7 -b"
 
 colorscript -e zwaves
 
-if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-  exec startx
-fi
+# if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
+#  exec startx
+# fi
