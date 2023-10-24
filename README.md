@@ -38,7 +38,6 @@
   $ cp ~/Xmonad_Rice/{theme}/.zprofile ~/
   ```
 - Configuring lightdm
-- Configuring lightdm
   ```
   $ sudo pacman -S lightdm lightdm-gtk-greeter
   $ sudo systemctl enable lightdm
