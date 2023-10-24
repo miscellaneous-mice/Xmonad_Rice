@@ -47,7 +47,7 @@
   ```
   $ sudo pacman -S lightdm lightdm-gtk-greeter
   $ sudo systemctl enable lightdm
-  $ sudo cp ~/Xmonad_Rice/{theme}/wallpaper/lightdm/* /usr/share/backgrounds/
+  $ sudo cp -r ~/Xmonad_Rice/{theme}/wallpaper/lightdm/* /usr/share/backgrounds/
   ```
   - Uncomment these lines in ```sudo nvim /etc/lightdm/lightdm.conf```
   ```
