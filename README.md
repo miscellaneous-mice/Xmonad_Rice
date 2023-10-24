@@ -40,7 +40,7 @@
 - Configuring lightdm
   ```
   $ sudo pacman -S lightdm lightdm-gtk-greeter
-  $ sudo cp ~/BSPWM_Rice/{theme}/wallpaper/lightdm/* /usr/share/backgrounds
+  $ sudo cp ~/Xmonad_Rice/{theme}/wallpaper/lightdm/* /usr/share/backgrounds/
   ```
   - Change the config files  ```/etc/lightdm/lightdm.conf``` and ```/etc/lightdm/lightdm-gtk-greeter.conf``` as given in the ```~/BSPWM_Rice/{theme}/etc/lightdm/```
   - Comment everything in ```~/.zprofile```
