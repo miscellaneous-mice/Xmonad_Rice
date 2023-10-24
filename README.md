@@ -33,7 +33,16 @@ $ chmod +x ~/.config/polybar/scripts/powermenu_alt
 $ chmod +x ~/.config/polybar/launch.sh
 ```
 - [Terminal configurations(zshrc, neovim, alacritty)](https://github.com/miscellaneous-mice/Terminal_Rice)
-
+```
+Extra step
+cp ~/BSPWM_Rice/{theme}/.zprofile ~/
+```
+- Configuring lightdm
+```
+$ sudo pacman -S lightdm lightdm-gtk-greeter
+$ sudo cp ~/BSPWM_Rice/{theme}/wallpaper/lightdm/* /usr/share/backgrounds
+```
+- Change the config files  ```/etc/lightdm/lightdm.conf``` and ```/etc/lightdm/lightdm-gtk-greeter.conf``` as given in the ```~/BSPWM_Rice/{theme}/etc/lightdm/```
 ## Packages
 - feh (pacman)
 - alsa-utils (pacman)
