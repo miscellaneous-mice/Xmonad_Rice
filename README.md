@@ -58,6 +58,7 @@
   background=/usr/share/backgrounds/{shaded_landscape/2}.png
   theme-name={Catppuccin-Mocha-Standard-Lavender-Dark/Nordic-darker}
   icon-theme-name={Papirus/Zafiro-Nord-Black-Blue}
+  cursor-theme-name=Bibata-Modern-Ice
   font-name=JetBrainsMono Nerd Font
   ```
   - Comment everything in ```~/.zprofile```
