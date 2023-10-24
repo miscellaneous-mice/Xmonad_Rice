@@ -4,6 +4,13 @@
 
 **All the necessary stuff found [here](https://github.com/miscellaneous-mice/Linux_Rice)**
 
+**Login Screen**
+
+![Login](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/65bc8077-13d3-4b14-9781-aaeda4f574e9)
+
+
+**Main Screen**
+
 ![Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/9ff33d41-0a85-4fe2-b935-44cfa3936ef8)
 
 ## Configurations
