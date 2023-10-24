@@ -80,7 +80,7 @@
   ```
   then run as root,
   ```
-  grub-mkconfig -o /boot/grub/grub.cfg
+  # grub-mkconfig -o /boot/grub/grub.cfg
   ```
   - To test use
   ```
