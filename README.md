@@ -93,6 +93,13 @@
   ```
   $ lightdm --test-mode --debug
   ```
+- Configuring Dunst (Mainly used for polybar to check updates)
+```
+$ sudo pacman -S dunst
+$ cp -r ~/Xmonad_Rice/{theme}/.config/dunst ~/.config/
+$ cp ~/Xmoand_Rice/{theme}/.local/bin/updates.sh ~/.local/bin/
+$ chmod +x ~/.local/bin/updates.sh
+```
 ## Packages
 - feh (pacman)
 - alsa-utils (pacman)
