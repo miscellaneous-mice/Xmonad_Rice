@@ -35,6 +35,8 @@
   $ mv ~/.config/polybar ~/Backup/
   $ cp -r ~/Xmonad_Rice/{theme}/.config/polybar ~/.config/
   $ cp -r ~/.config/polybar/fonts/* ~/.fonts/
+  $ mkdir -p ~/Backup/Iosevka/
+  $ sudo mv /usr/share/fonts/IosevkaNerdFont* ~/Backup/Iosevka/
   $ chmod +x ~/.config/polybar/scripts/launcher
   $ chmod +x ~/.config/polybar/scripts/powermenu_alt
   $ chmod +x ~/.config/polybar/launch.sh
