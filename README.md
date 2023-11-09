@@ -11,7 +11,8 @@
 
 **Main Screen**
 
-![Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/9ff33d41-0a85-4fe2-b935-44cfa3936ef8)
+![Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/d013c6aa-f5ed-41d8-a8e6-9e4a2b739136)
+
 
 ## Configurations
 - Window manager configs
