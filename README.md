@@ -108,7 +108,6 @@
   ```
   GRUB_CMDLINE_LINUX_DEFAULT=".... video=1920x1080"
   GRUB_GFXMODE="1920x1080"
-  GRUB_GFXPAYLOAD_LINUX="1920x1080"
   ```
   - then run as root,
   ```
