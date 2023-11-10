@@ -84,14 +84,6 @@
   #   exec startx
   # fi
   ```
-  - Specify your resolution ```sudo nvim /etc/default/grub```
-  ```
-  GRUB_GFXMODE=1920x1080 
-  ```
-  then run as root,
-  ```
-  # grub-mkconfig -o /boot/grub/grub.cfg
-  ```
   - To test use
   ```
   $ lightdm --test-mode --debug
