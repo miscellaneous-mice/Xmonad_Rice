@@ -103,6 +103,11 @@ $ cp -r ~/Xmonad_Rice/{theme}/.config/dunst ~/.config/
 $ cp ~/Xmoand_Rice/{theme}/.local/bin/updates.sh ~/.local/bin/
 $ chmod +x ~/.local/bin/updates.sh
 ```
+- Configuring grub
+```
+$ git clone --depth 1 https://gitlab.com/VandalByte/dedsec-grub-theme.git && cd dedsec-grub-theme
+$ sudo python3 dedsec-theme.py --install
+```
 ## Packages
 - feh (pacman)
 - alsa-utils (pacman)
@@ -117,7 +122,6 @@ $ chmod +x ~/.local/bin/updates.sh
 - tty-clock ([github](https://github.com/xorg62/tty-clock))
 - unimatrix ([github](https://github.com/will8211/unimatrix))
 
-
 ## Common
 - Fonts
   - [otf-font-awesome](https://archlinux.org/packages/extra/any/otf-font-awesome/)
@@ -129,6 +133,8 @@ $ chmod +x ~/.local/bin/updates.sh
   - [SauceCodePro nerd fonts](https://www.nerdfonts.com/font-downloads)
 - Icons
    - [oranchelo](https://github.com/OrancheloTeam/oranchelo-icon-theme)
+- Grub
+  - [dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme)
 
 ## Catppuccin
 - [Polybar](https://github.com/miscellaneous-mice/polybar)
