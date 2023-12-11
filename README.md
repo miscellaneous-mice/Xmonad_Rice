@@ -42,6 +42,7 @@
   $ chmod +x ~/.config/polybar/scripts/powermenu_alt
   $ chmod +x ~/.config/polybar/launch.sh
   $ chmod +x ~/.config/polybar/scripts/monster/start.sh
+  $ chmod +x ~/.config/polybar/scripts/pacman/start.sh
   ```
 - [Terminal configurations(zshrc, neovim, alacritty)](https://github.com/miscellaneous-mice/Terminal_Rice)
   - Extra step
