@@ -7,7 +7,7 @@
 
 **[CATPPUCCIN](https://youtu.be/BuO17pgjpic?si=AP3Yct9HJ5oeNWg2)** 
 
-**NORD** -> https://youtu.be/rQ56Q-LNJj4?si=ssOHNlFLWUTvDDPA
+**[NORD](https://youtu.be/rQ56Q-LNJj4?si=ssOHNlFLWUTvDDPA)** 
 
 ## Configurations
 - Window manager configs
