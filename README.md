@@ -4,15 +4,10 @@
 
 **All the necessary stuff found [here](https://github.com/miscellaneous-mice/Linux_Rice)**
 
-**Login Screen**
 
-![Login](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/65bc8077-13d3-4b14-9781-aaeda4f574e9)
+**[CATPPUCCIN](https://youtu.be/BuO17pgjpic?si=AP3Yct9HJ5oeNWg2)** 
 
-
-**Main Screen**
-
-![Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice/assets/79500624/d013c6aa-f5ed-41d8-a8e6-9e4a2b739136)
-
+**NORD** -> https://youtu.be/rQ56Q-LNJj4?si=ssOHNlFLWUTvDDPA
 
 ## Configurations
 - Window manager configs
