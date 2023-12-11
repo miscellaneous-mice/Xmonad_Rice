@@ -4,7 +4,7 @@
 
 **All the necessary stuff found [here](https://github.com/miscellaneous-mice/Linux_Rice)**
 
-
+## Preview
 **[CATPPUCCIN](https://youtu.be/BuO17pgjpic?si=AP3Yct9HJ5oeNWg2)** 
 
 **[NORD](https://youtu.be/rQ56Q-LNJj4?si=ssOHNlFLWUTvDDPA)** 
