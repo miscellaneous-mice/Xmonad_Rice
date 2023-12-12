@@ -40,16 +40,7 @@
   $ chmod +x ~/.config/polybar/scripts/pacman/start.sh
   ```
 - [Terminal configurations(zshrc, neovim, alacritty)](https://github.com/miscellaneous-mice/Terminal_Rice)
-  - Extra step
-  ```
-  $ cp ~/Xmonad_Rice/{theme}/.zprofile ~/
-  ```
-  - comment these lines in ```~/.zshrc```
-  ```
-  #if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-  #  exec startx
-  #fi
-  ```
+
 - Configuring lightdm
   ```
   $ sudo pacman -S lightdm lightdm-gtk-greeter
