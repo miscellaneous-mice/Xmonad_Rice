@@ -98,6 +98,23 @@
   $ git clone --depth 1 https://gitlab.com/VandalByte/dedsec-grub-theme.git && cd dedsec-grub-theme
   $ sudo python3 dedsec-theme.py --install
   ```
+
+- If you want animations
+  - Install the pijulius fork of picom.
+  ```
+  $ sudo pacman -R picom
+  $ git clone https://aur.archlinux.org/picom-pijulius-git.git
+  $ cd picom-pijulius-git
+  $ makepkg -si 
+  ```
+  - Replace the picom file
+  ```
+  $ mv ~/.config/picom/picom.conf ~/Backup
+  $ mv ~/Xmonad_Rice/{theme}/.config/picom/picom_animations.conf ~/.config/picom/picom.conf
+  $ sudo reboot
+  ```
+  - *Note* : You might have to disable borders in your window manager config file, as it doesn't work properly with this picom configuration
+
 ## Packages
 - feh (pacman)
 - alsa-utils (pacman)
